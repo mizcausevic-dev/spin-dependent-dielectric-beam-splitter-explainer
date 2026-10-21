@@ -11,8 +11,8 @@
       "glyph": "optic",
       "label": "Conceptual patterned aperture",
       "role": "path",
-      "x": 0.22,
-      "y": 0.24
+      "x": 0.14,
+      "y": 0.32
     },
     {
       "id": "n2",
@@ -20,23 +20,23 @@
       "label": "Circularly polarized inputs separately",
       "role": "structure",
       "x": 0.5,
-      "y": 0.24
+      "y": 0.32
     },
     {
       "id": "n3",
       "glyph": "fin",
       "label": "Anisotropic meta-atoms",
       "role": "path",
-      "x": 0.78,
-      "y": 0.24
+      "x": 0.86,
+      "y": 0.32
     },
     {
       "id": "n4",
       "glyph": "polarizer",
       "label": "Designed polarization channels",
       "role": "path",
-      "x": 0.22,
-      "y": 0.52
+      "x": 0.14,
+      "y": 0.7
     },
     {
       "id": "n5",
@@ -44,15 +44,15 @@
       "label": "Distinct directions",
       "role": "structure",
       "x": 0.5,
-      "y": 0.52
+      "y": 0.7
     },
     {
       "id": "n6",
       "glyph": "plate",
       "label": "Output angular spectra",
       "role": "structure",
-      "x": 0.78,
-      "y": 0.52
+      "x": 0.86,
+      "y": 0.7
     }
   ],
   "edges": [
